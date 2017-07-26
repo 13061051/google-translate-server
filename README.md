@@ -22,7 +22,7 @@ API
 + method: `POST`
 + request:
 
-    - body: {text: '...'},
+    - body: `{text: '...'}`,
     - desc: text的长度不可超过4000字符
 
 + response:
