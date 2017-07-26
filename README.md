@@ -10,7 +10,7 @@ Clone this repository to some directory, then
 
 ```
 npm install --save-dev
-npm run index.js [port]
+node index.js [port]
 ```
 
 The default port is 3001, if there's no port argument provided via command line.
