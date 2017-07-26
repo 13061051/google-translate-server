@@ -121,7 +121,7 @@ const getText = (text, opts)=>{
             e.statusCode = err.statusCode;
         } else {
             e.code = 'BAD_NETWORK';
-            e.statusCode = 0;
+            e.statusCode = 1;
         }
         throw e;
     });
