@@ -1,7 +1,7 @@
 translate
 =========
 
-A local server can be used as a local translate server, using `translate.google.cn` as backend.
+A local server can be used as a local translate server, using [https://translate.google.cn/translate_a/single](https://translate.google.cn/translate_a/single) as backend.
 
 Build and Run
 -------------
